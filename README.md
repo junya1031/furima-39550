@@ -24,7 +24,7 @@ Things you may want to cover:
 * ...
 
 #usersテーブル
-|Column-------------------|Type-------|Options--------------------------|
+|Column-------------------|Type-------|Options------------------------|
 |nickname                 |string     |null: false                    |
 |email                    |string     |null: false, unique: true      |
 |encrypted_password       |string     |null: false                    |
