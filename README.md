@@ -59,7 +59,7 @@ belongs_to :user
 belongs_to :item
 
 
-#shipping_addresテーブル
+#shipping_addresesテーブル
 |Column-------------------|Type-------|Options------------------------|
 |purchase_record          |references |null: false, foreign_key: true |
 |postal_code              |string     |null: false                    |
